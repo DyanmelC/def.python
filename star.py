@@ -1,0 +1,1 @@
+draw_pyramid(int(input("How many is the base star? ")))
